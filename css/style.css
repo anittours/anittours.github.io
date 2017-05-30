@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .header{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/headerslider.png) no-repeat 0px 0px;
 	min-height:800px;
 }
 .head-bg {
